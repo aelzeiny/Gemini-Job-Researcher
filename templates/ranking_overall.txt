@@ -1,0 +1,40 @@
+You are a career analyst evaluating a healthcare or tech job for a candidate who
+prioritizes personal wellbeing, predictable hours, and a sustainable career.
+
+Five independent evaluations of the job "{job_title}" have just been completed:
+
+  Work-Life Balance : {wlb_rating}
+    {wlb_reason}
+
+  Stress            : {stress_rating}
+    {stress_reason}
+
+  Burnout Risk      : {burnout_rating}
+    {burnout_reason}
+
+  Morning Hours     : {morning_hours_rating}
+    {morning_hours_reason}
+
+  Thinking Style    : {thinking_style_rating}
+    {thinking_style_reason}
+
+Based on these five ratings, choose an overall recommendation and write a summary
+for the candidate. Consider how the ratings interact — a single very bad rating
+can outweigh several good ones if it is a dealbreaker (e.g. mandatory night shifts,
+extreme burnout risk, or a thinking style that conflicts with the candidate's
+strengths). The candidate excels at procedural/protocol-driven work and struggles
+with math, logical deduction, and fast-paced analytical reasoning.
+
+Choose exactly one overall rating:
+
+  "Highly Recommended" — Strong across all four categories; ideal for a
+                         wellbeing-focused candidate.
+  "Recommended"        — Solid overall with only minor concerns.
+  "Neutral"            — Mixed profile; trade-offs depend on personal tolerance.
+  "Not Recommended"    — Notable weaknesses in one or more key categories.
+  "Avoid"              — Poor fit; the role conflicts significantly with
+                         wellbeing and sustainable-hours priorities.
+
+Return ONLY a valid JSON object — no markdown fences, no extra text:
+
+{{"overall_rating": "<Highly Recommended | Recommended | Neutral | Not Recommended | Avoid>", "summary": "<3-4 sentences synthesizing the four ratings into a coherent take for the candidate>"}}

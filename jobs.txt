@@ -1,0 +1,169 @@
+AI Manager (Radiology)
+Anesthesia Technician
+Anesthesiologist
+Art Therapist
+Athletic Trainer
+Audiologist
+Autopsy Technician-Photographer
+Behavioral Health Technician
+Biomedical Equipment Technician (BMET)
+Biostatistician
+Cardiac Sonographer
+Cardiovascular Invasive Specialist
+Cardiovascular Perfusionist
+Cardiovascular Technologist
+Central Service Technician
+Certified Nursing Assistant (CNA)
+Certified Registered Nurse Anesthetist (CRNA)
+Chargemaster Analyst
+Chief Medical Information Officer (CMIO)
+Chief Nursing Officer (CNO)
+Child Life Specialist
+Clinical Documentation Specialist (CDI)
+Clinical Informatics Manager
+Clinical Laboratory Technologist
+Clinical Psychologist
+Clinical Research Associate (CRA)
+Clinical Research Coordinator (CRC)
+Clinical Systems Trainer
+Clinical Trial Manager
+Community Health Worker
+CT Technologist
+Cytogenetic Technologist
+Cytotechnologist
+Denials Management Specialist
+Dental Hygienist
+Dentist
+Diagnostic Medical Sonographer
+Dietary Aide
+Dietitian
+Director of Revenue Cycle
+Disease Intervention Specialist (DIS)
+Dramatherapist
+Drug Safety Associate
+Echocardiographer
+Electronic Health Record (EHR) Manager
+Emergency Medicine Paramedic
+Endodontist
+Environmental Services (EVS) Technician
+Epidemiologist
+Food Service Supervisor
+Forensic Pathologist
+Freedom To Speak Up Guardian
+General Practitioner
+Genetic Counselor
+Hand Therapist
+Health Data Analyst
+Health Education Specialist
+Health Information Exchange (HIE) Integration Analyst
+Health Information Management (HIM) Director
+Health Information Manager
+Health Policy Analyst
+Healthcare Social Worker
+Hemodialysis Technician
+Histology Technician
+Histotechnologist
+Hospital Chaplain
+Hospitalist
+Infection Preventionist
+Informatics Nurse Specialist
+Information Technology (IT) Auditor
+Interventional Radiology Technologist
+Lab Technician
+Licensed Practical Nurse (LPN)
+Licensed Vocational Nurse (LVN)
+Lymphedema Therapist
+Maintenance Engineer
+Mammographer
+Marriage and Family Therapist (LMFT)
+Medical Biller
+Medical Coder (CPC/CCS)
+Medical Collector
+Medical Examiner
+Medical Illustrator
+Medical Laboratory Scientist
+Medical Massage Therapist
+Medical Physicist
+Medical Science Liaison (MSL)
+Medical Social Worker
+Medical Speech-Language Pathologist
+Medical Writer
+Mental Health Counselor
+Molecular Genetics Technologist
+MRI Technologist
+Music Therapist
+Neonatologist
+Neurodiagnostic Technologist
+Nocturnist
+Nuclear Medicine Technologist
+Nurse (Registered)
+Nurse Anesthetist (CRNA)
+Nurse Manager
+Nurse Midwife
+Nurse Practitioner
+Occupational Therapist
+Occupational Therapy Assistant (OTA)
+Ophthalmic Assistant
+Ophthalmic Tech
+Oral and Maxillofacial Surgeon
+Orthodontist
+Orthoptist
+Pathologist
+Pathologists' Assistant
+Patient Access Representative
+Patient Advocate
+Patient Care Assistant (PCA)
+Patient Care Technician (PCT)
+Patient Transporter
+Pediatrician
+Peer Support Worker
+Perioperative Nurse
+Periodontist
+PET Technologist
+Pharmacist
+Pharmacovigilance Specialist
+Pharmacy Technician
+Phlebotomist
+Phlebotomy Technician
+Physical Therapist
+Physical Therapy Assistant (PTA)
+Physician
+Physician Assistant
+Primary Care Physician
+Principal Investigator (PI)
+Privacy Officer (HIPAA)
+Psychiatric Aide
+Psychiatrist
+Psychometrician
+PT Assistant
+Radiation Therapist
+Radiologic Tech
+Radiologic Technologist
+Recreational Therapist
+Registered Nurse (including Specialties: Staff, ICU, NICU, Med-Surg, ER)
+Regulatory Affairs Associate
+Remote Patient Monitoring Specialist
+Respiratory Therapist
+Revenue Cycle Manager
+Revenue Integrity Manager
+Security Officer
+Social Prescriber
+Sonographer
+Speech-Language Pathologist
+Stationary Engineer
+Sterile Processing
+Sterile Processing Technician
+Substance Abuse Counselor
+Surgeon
+Surgical First Assistant
+Surgical Technologist
+Telehealth Compliance Officer
+Telehealth Nurse Practitioner
+Telehealth Program Manager
+Telehealth Registered Nurse
+Telemedicine Physician
+Triage Nurse (Remote)
+Tumor Registrar
+Vice President of Revenue Cycle
+Virtual Care Coordinator
+Virtual Medical Scribe

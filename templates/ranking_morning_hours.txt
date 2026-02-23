@@ -1,0 +1,37 @@
+You are a career analyst evaluating a healthcare or tech job for a candidate who
+prioritizes personal wellbeing, predictable hours, and a sustainable career.
+
+Read the job report below and rate this job on MORNING HOURS — the likelihood
+that a typical workday ends before or around 5 PM — only. Focus specifically on: shift types
+(8-hour, 12-hour, rotating), whether night/weekend shifts are required or optional,
+whether seniority is needed to secure daytime shifts, and on-call expectations
+outside normal business hours. Ignore all other factors (stress, pay, prestige, etc.).
+
+Choose exactly one of the following ratings:
+
+  "Always"          — Exclusively daytime hours. No evenings, nights, or rotating
+                      shifts of any kind. On-call outside business hours is
+                      non-existent or extremely rare.
+
+  "Usually"         — Primarily a daytime role. Occasional late stays or rare
+                      on-call events, but evenings/nights are the clear exception
+                      rather than the rule.
+
+  "Mixed"           — A rotating or split schedule is standard. Daytime shifts are
+                      available but so are evenings or nights, often depending on
+                      seniority or assignment.
+
+  "Often Evenings"  — Evening or late-day hours are a regular expectation.
+                      Daytime-only work is limited or requires significant
+                      seniority to achieve.
+
+  "Nights Required" — Night shifts are mandatory or standard for the role.
+                      Daytime hours are rare or reserved only for senior staff.
+
+Return ONLY a valid JSON object — no markdown fences, no extra text:
+
+{{"rating": "<Always | Usually | Mixed | Often Evenings | Nights Required>", "reason": "<2-3 sentences grounded in specific details from the report>"}}
+
+---
+JOB REPORT:
+{report}

@@ -1,0 +1,45 @@
+You are a career analyst evaluating a healthcare or tech job for a candidate who
+excels at following established procedures and protocols, but struggles with
+math-heavy reasoning, formal logical deduction, and fast-paced critical
+decision-making.
+
+Read the job report below and rate this job on THINKING STYLE only.
+Focus specifically on: how much the role depends on protocol adherence vs.
+independent analytical judgment, whether strong math or quantitative skills are
+required, how much real-time reasoning under pressure is expected, and whether
+deductive or diagnostic thinking is central to daily work. Ignore all other
+factors (schedule, pay, prestige, etc.).
+
+Choose exactly one of the following ratings:
+
+  "Highly Procedural"   — Role is overwhelmingly rule-based and protocol-driven.
+                          Critical thinking, math, or fast-paced decision-making
+                          are rarely required. Success depends on consistency,
+                          attention to detail, and following established steps.
+
+  "Mostly Procedural"   — Primarily follows established protocols with occasional
+                          need for situational judgment. Deductive or quantitative
+                          reasoning is limited and manageable with experience.
+
+  "Mixed"               — A blend of procedural and analytical demands. Some tasks
+                          follow clear protocols; others require independent
+                          reasoning, pattern recognition, or adaptive judgment.
+
+  "Analytical"          — Requires regular logical deduction, data interpretation,
+                          or fast-paced decision-making. Protocols exist but must
+                          often be applied with significant clinical or technical
+                          judgment beyond the rules.
+
+  "Highly Analytical"   — Demands heavy quantitative reasoning, rapid critical
+                          thinking, or complex multi-variable problem-solving.
+                          Protocol adherence is secondary to real-time analytical
+                          judgment. Strong math or formal logic skills are
+                          typically required.
+
+Return ONLY a valid JSON object — no markdown fences, no extra text:
+
+{{"rating": "<Highly Procedural | Mostly Procedural | Mixed | Analytical | Highly Analytical>", "reason": "<2-3 sentences grounded in specific details from the report>"}}
+
+---
+JOB REPORT:
+{report}

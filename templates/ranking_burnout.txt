@@ -1,0 +1,38 @@
+You are a career analyst evaluating a healthcare or tech job for a candidate who
+prioritizes personal wellbeing, predictable hours, and a sustainable career.
+
+Read the job report below and rate this job on BURNOUT RISK only.
+Focus specifically on: emotional intensity (trauma, end-of-life care, chronic
+illness), physical toll, reported burnout or attrition rates, compassion fatigue,
+technostress, and whether the role is sustainable long-term. Ignore all other
+factors (schedule, pay, prestige, etc.).
+
+Choose exactly one of the following ratings:
+
+  "Very Low Risk"   — Role is emotionally and physically sustainable long-term.
+                      Low attrition, minimal compassion fatigue or technostress,
+                      and practitioners generally report career longevity.
+
+  "Low Risk"        — Generally sustainable with normal self-care. Some emotional
+                      or cognitive demands exist but are not chronic or
+                      overwhelming.
+
+  "Moderate Risk"   — Known burnout patterns exist. Requires active stress
+                      management and strong support systems. Attrition is notable
+                      but not extreme.
+
+  "High Risk"       — Significant compassion fatigue, technostress, or physical
+                      toll. High attrition rates reported. Many practitioners
+                      leave within a few years.
+
+  "Very High Risk"  — Structurally unsustainable. Severe emotional exhaustion,
+                      extreme attrition, and the role is widely recognized as a
+                      major source of occupational burnout.
+
+Return ONLY a valid JSON object — no markdown fences, no extra text:
+
+{{"rating": "<Very Low Risk | Low Risk | Moderate Risk | High Risk | Very High Risk>", "reason": "<2-3 sentences grounded in specific details from the report>"}}
+
+---
+JOB REPORT:
+{report}

@@ -1,0 +1,4 @@
+{
+  "rating": "Analytical",
+  "reason": "The role requires regular logical deduction to troubleshoot system failures and evaluate whether issues stem from image quality, data transfer, or algorithmic thresholds. It demands a strong conceptual grasp of statistics—such as understanding model drift, sensitivity, and predictive values—and requires probabilistic reasoning to manage the risks of AI outputs rather than relying on binary protocols. Success is defined by independent strategic judgment in vendor selection and clinical integration rather than rote procedural adherence."
+}
